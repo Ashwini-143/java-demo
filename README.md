@@ -2,6 +2,6 @@
 it is a sample java Repository
 
 
-# Author : Ashwini
+# Author : aruna
 #Date : 12-09-2024
 #Location : Rajampet
